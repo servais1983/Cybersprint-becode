@@ -1,0 +1,12 @@
+﻿Nommez deux protocoles qui garantissent que le transfert de paquets de l’IP A à l’IP B est terminé.
+le protocole TCP et SCTP (Stream Control Transmission Protocol), protocole fournissant des services similaires à TCP (fiabilité, remise en ordre des séquences, et contrôle de congestion), tout en offrant la possibilité de communications multi-cibles comme avec UDP.)
+
+
+
+
+
+
+Quelle commande utilisez-vous pour voir la version actuelle de l'IOS ?
+
+
+show version

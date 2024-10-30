@@ -1,0 +1,62 @@
+﻿1. Selon le modèle TCP/IP, à quelle couche appartient le protocole http ?
+Votre réponse
+     
+      application layer 
+
+
+
+
+2. Selon le modèle OSI, à quelle couche appartient le protocole http ?
+Votre réponse
+
+
+     application layer 
+
+
+3. Quel protocole est utilisé pour traduire les noms de domaine en adresses IP et vice versa ?
+Votre réponse
+
+
+     protocole DNS
+
+
+
+
+4. Quel protocole est utilisé pour transférer des fichiers d'un client vers un serveur ?
+Votre réponse
+     le protocole ftp
+
+
+
+
+5. Quelle est la première couche du modèle TCP ?
+Votre réponse
+
+
+     la couche application
+
+
+6. Dans quel protocole Internet se trouve le ping ? ?
+Votre réponse
+     Dans le protocole ICMP
+
+
+
+
+7. Pour la « couche transport », quel protocole est le mieux adapté à la diffusion vidéo ?
+Votre réponse
+      le protocole UDP
+
+
+
+
+8. Quel protocole permet le lien entre les adresses mac et les adresses IP entre une adresse IP et une adresse physique ?
+Votre réponse
+
+
+      le protocole ARP
+
+
+9. Quel protocole vous permet d'accéder et de stocker des e-mails sur un serveur de messagerie à distance ?
+Votre réponse
+      le protocole POP

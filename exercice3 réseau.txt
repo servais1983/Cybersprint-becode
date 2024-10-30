@@ -1,0 +1,43 @@
+﻿Comment écrire 16 hexadécimal ?
+
+
+10 ou ox10
+ 
+en hexadécimal chaque place vaut 16 au lieu de 10 en décimal donc
+
+
+le nombre 16 = 1”seize” et 0 “unité”
+
+
+Les adresses MAC sont-elles uniques ?
+
+
+
+
+oui
+
+
+Après avoir lu ceci , que représentent les 6 premiers caractères d'une adresse Mac ?
+
+
+contient le numéro d'identification attribué au fabricant de l'adaptateur.
+
+
+
+
+Quelle organisation gère l'attribution des adresses mac ?
+
+
+ l'IEEE (Institute of Electrical and Electronics Engineers).
+
+
+
+
+A quel constructeur 34-FE-77appartient OUID ?
+
+
+Apple
+Si le type de cadre est 0x806, de quel type de demande s'agit-il ?
+
+
+une demande ARP

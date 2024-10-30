@@ -46,8 +46,9 @@ dans la couche physique
 
 
 
-1.1 Quel type de cale avez-vous utilisé pour connecter les PC au commutateur ?
-câble ethernet droit 
+1.1 Quel type de cable avez-vous utilisé pour connecter les PC au commutateur ?
+
+câble ethernet croisé car le routeur considéré comme un pc 
 
 
 

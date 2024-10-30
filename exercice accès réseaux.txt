@@ -1,0 +1,58 @@
+﻿Quel type de câble est actuellement utilisé dans les réseaux d’entreprise ?
+
+
+le câble ethernet
+
+
+Quel est le principal problème des câbles en cuivre ?
+
+
+le risque d’interférences électromagnétiques
+
+
+
+
+Quelle est la portée maximale du Bluetooth ?
+
+
+environ 10 mètres
+
+
+
+
+
+
+Selon le modèle OSI dans quelle couche fonctionnent les commutateurs ?
+
+
+dans la couche liaison de données
+
+
+
+
+Selon le modèle OSI, dans quelle couche fonctionnent les routeurs ? 
+
+
+dans la couche réseau
+
+
+
+
+Selon le modèle OSI, dans quelle couche fonctionnent les câbles Ethernet ?
+
+
+dans la couche physique
+
+
+
+
+1.1 Quel type de cale avez-vous utilisé pour connecter les PC au commutateur ?
+câble ethernet droit 
+
+
+
+
+1.2 Quel type de câble avez-vous utilisé pour connecter les deux commutateurs ? Expliquez la raison de ce choix de câble.
+
+
+câble ethernet croisé car risque de conflits ,étant donné que les 2 commutateurs ont une fonction commune sur le réseau.
